@@ -5,7 +5,7 @@ h1, h2, h3{
     font-family: "Lobster", cursive;
 }
 h2{
-    color: #3046C5;
+    color: green;
 }
 header h2{
     color: #cec8ff;
@@ -17,7 +17,7 @@ footer{
 }
 .jumbotron{
     padding: 30px;
-    background-image: linear-gradient(to right,#5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, green, teal,gray);
     color: white;
     margin: 0;
 
@@ -29,7 +29,7 @@ footer{
 
 }
 .navbar {
-    background-color:#901CAD;}
+    background-color: greenyellow;}
 
 .site-footer{
         background-image: linear-gradient(#CEC8FF, white);
@@ -39,5 +39,5 @@ footer{
     background-color: rgba(0, 0, 0, 0.5);
 }
 .carousel{
-    border: solid rgb(61, 27, 214);
+    border: solid greenyellow;
 }
